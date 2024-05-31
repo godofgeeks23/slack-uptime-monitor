@@ -1,0 +1,1 @@
+A simple uptime monitor based on HTTP/HTTPS requests. It can be used to monitor the uptime of your website or any other API. It sends a request to the specified URL at a specified interval and logs the response time and status code. It also logs the downtime if the response status code is not 200. The logs are stored in a SQLite database.
