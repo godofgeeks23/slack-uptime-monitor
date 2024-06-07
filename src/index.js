@@ -1,1 +1,1 @@
-// slack monitor for uptime
+// slack app to monitor uptime
